@@ -61,5 +61,4 @@ Graphics used in this project:
 
 ## 👨‍💻 Autor
 
-**JulioCZ**  
-- Technical Degree in Video Game Design and Programming
+**JulioCZ** - Technical Degree in Video Game Design and Programming
