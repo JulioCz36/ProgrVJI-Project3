@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\Programaci\u00F3n de videojuegos I\\Unidad 2\\TP3-Unidad-2-ProgrVJ-I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E679411A-DEF7-4393-8B68-C44534AF0D01}|TP3-Unidad-2-ProgrVJ-I\\TP3-Unidad-2-ProgrVJ-I.vcxproj|C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\Programaci\u00F3n de videojuegos I\\Unidad 2\\TP3-Unidad-2-ProgrVJ-I\\TP3-Unidad-2-ProgrVJ-I\\Partida.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E679411A-DEF7-4393-8B68-C44534AF0D01}|TP3-Unidad-2-ProgrVJ-I\\TP3-Unidad-2-ProgrVJ-I.vcxproj|solutionrelative:TP3-Unidad-2-ProgrVJ-I\\Partida.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Partida.cpp",
+              "DocumentMoniker": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\Programaci\u00F3n de videojuegos I\\Unidad 2\\TP3-Unidad-2-ProgrVJ-I\\TP3-Unidad-2-ProgrVJ-I\\Partida.cpp",
+              "RelativeDocumentMoniker": "TP3-Unidad-2-ProgrVJ-I\\Partida.cpp",
+              "ToolTip": "C:\\Users\\JulioCZ\\Documents\\2 - Cuatri_1\\Programaci\u00F3n de videojuegos I\\Unidad 2\\TP3-Unidad-2-ProgrVJ-I\\TP3-Unidad-2-ProgrVJ-I\\Partida.cpp",
+              "RelativeToolTip": "TP3-Unidad-2-ProgrVJ-I\\Partida.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T15:08:02.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
