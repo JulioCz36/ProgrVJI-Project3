@@ -7,7 +7,7 @@ The goal: build a C++ game where a radioactive train must reach the end of its r
 
 ## 🕹️ Gameplay
 
-[![Ver video del gameplay](https://img.youtube.com/vi/smJ-HRKNhSI/0.jpg)](https://www.youtube.com/watch?v=smJ-HRKNhSI)
+[![Ver video del gameplay](https://img.itch.zone/aW1nLzIyMDUxMDEyLnBuZw==/315x250%23c/5s4w7V.png)](https://www.youtube.com/watch?v=smJ-HRKNhSI)
 
 
 ## 📝 Objective
